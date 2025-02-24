@@ -1,9 +1,13 @@
-THIS IS A REPO THAT I CREATED FOR LEARNING SHELL SCRIPTING USING BASH.
-TO RUN THIS SCRIPT:-
+To run a script from this repo:-
 
-#FIRST YOU HAVE TO GIVE EXECUTABLE #PERMISSIONS TO THE SCRIPTS
+First you have to give executable permission to this script
 
 ```
 $ chmod u+x <script-name>
+```
 
+After giving executable permission you can run the shell script by
+
+```
+$ ./<script-name>.sh
 ```
